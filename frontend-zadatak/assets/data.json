@@ -1,0 +1,39 @@
+{
+  "clients": [{
+    "id": 1,
+    "name": "John",
+    "code": "sdsdsds",
+    "duration": 213,
+    "numberOfAccounts": 2,
+    "dateOfCreation": "6/15/15, 9:03 AM"
+  },
+    { "id": 2,
+      "name": "Lord",
+      "code": "12k3j4",
+      "duration": 21322,
+      "numberOfAccounts": 1,
+      "dateOfCreation": "6/14/18, 9:03 AM"
+    },
+    { "id": 3,
+      "name": "Fonda",
+      "code": "12k3j4",
+      "duration": 21322,
+      "numberOfAccounts": 1,
+      "dateOfCreation": "2/11/18, 9:03 AM"
+    },
+    { "id": 4,
+      "name": "Vitallic",
+      "code": "12k3j4",
+      "duration": 21322,
+      "numberOfAccounts": 1,
+      "dateOfCreation": "6/12/18, 9:03 AM"
+    },
+    { "id": 5,
+      "name": "Advent",
+      "code": "12k3j4",
+      "duration": 21322,
+      "numberOfAccounts": 1,
+      "dateOfCreation": "6/14/18, 9:03 AM"
+    }
+  ]
+}
